@@ -1,3 +1,7 @@
 ./idea/
 *.imi
 ./out/
+.idea
+*.iml
+target
+
