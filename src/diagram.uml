@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-65.5" y="-15.0">com</node>
+    <node x="-39.5" y="-15.0">XF1</node>
+    <node x="-39.5" y="-15.0">XF3</node>
+    <node x="-39.5" y="-15.0">XF2</node>
+    <node x="-37.5" y="-15.0">M2</node>
+    <node x="-50.0" y="-15.0">IpScan</node>
+    <node x="-37.5" y="-15.0">JS2</node>
+    <node x="-43.0" y="-15.0">LYT1</node>
+    <node x="-37.5" y="-15.0">JS1</node>
+    <node x="-39.5" y="-15.0">YY1</node>
+    <node x="-42.5" y="-15.0">Item</node>
+    <node x="-107.5" y="-15.0">groovyjarjarasm</node>
+    <node x="-64.0" y="-15.0">java</node>
+    <node x="-48.0" y="-15.0">Main2</node>
+    <node x="-67.5" y="-15.0">javax</node>
+    <node x="-62.0" y="-15.0">TreeNode</node>
+    <node x="-116.0" y="-15.0">groovyjarjarpicocli</node>
+    <node x="-45.0" y="-15.0">WM1</node>
+    <node x="-70.0" y="-15.0">javafx</node>
+    <node x="-39.0" y="-15.0">FT1</node>
+    <node x="-71.5" y="-15.0">oracle</node>
+    <node x="-33.0" y="-15.0">IP</node>
+    <node x="-86.0" y="-15.0">META-INF</node>
+    <node x="-42.0" y="-15.0">DD1</node>
+    <node x="-75.5" y="-15.0">groovy</node>
+    <node x="-42.0" y="-15.0">DD2</node>
+    <node x="-62.0" y="-15.0">Zhanquan</node>
+    <node x="-48.0" y="-15.0">DXM1</node>
+    <node x="-48.0" y="-15.0">DXM2</node>
+    <node x="-136.0" y="-15.0">groovyjarjarcommonscli</node>
+    <node x="-38.0" y="-15.0">W1</node>
+    <node x="-48.0" y="-15.0">DXM3</node>
+    <node x="-55.5" y="-15.0">AutoMit</node>
+    <node x="-40.5" y="-15.0">TH1</node>
+    <node x="-109.5" y="-15.0">groovyjarjarantlr</node>
+    <node x="-39.0" y="-15.0">SF2</node>
+    <node x="-39.0" y="-15.0">SF1</node>
+    <node x="-40.5" y="-15.0">TH2</node>
+    <node x="-82.0" y="-15.0">netscape</node>
+    <node x="-68.5" y="-15.0">book</node>
+    <node x="-62.5" y="-15.0">sun</node>
+    <node x="-35.5" y="-15.0">C1</node>
+    <node x="-34.5" y="-15.0">sd</node>
+    <node x="-48.0" y="-15.0">HND1</node>
+    <node x="-42.5" y="-15.0">YW1</node>
+    <node x="-42.0" y="-15.0">SLL1</node>
+    <node x="-39.5" y="-15.0">SC1</node>
+    <node x="-39.5" y="-15.0">SC3</node>
+    <node x="-39.5" y="-15.0">SC2</node>
+    <node x="-62.5" y="-15.0">org</node>
+    <node x="-58.0" y="-15.0">ListNode</node>
+    <node x="-116.0" y="28.5">jdk</node>
+    <node x="61.5" y="72.0">QuickSort</node>
+    <node x="55.0" y="-85.0">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="289.0" y="28.0" />
+  <SelectedNodes>
+    <node>QuickSort</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
